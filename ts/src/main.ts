@@ -8,3 +8,7 @@ import "./void";
 import "./optional";
 import "./rest";
 import "./callbacks";
+import "./unions";
+import "./readonly";
+import "./keyof";
+import "./typeof";
