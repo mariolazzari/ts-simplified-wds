@@ -12,3 +12,8 @@ import "./unions";
 import "./readonly";
 import "./keyof";
 import "./typeof";
+import "./indexTypes";
+import "./asConst";
+import "./tuples";
+import "./generics";
+import "./async";
