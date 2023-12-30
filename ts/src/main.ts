@@ -3,3 +3,8 @@ import "./arrays";
 import "./any";
 import "./objects";
 import "./types-interfaces";
+import "./functions";
+import "./void";
+import "./optional";
+import "./rest";
+import "./callbacks";
