@@ -17,3 +17,8 @@ import "./asConst";
 import "./tuples";
 import "./generics";
 import "./async";
+import "./pickOmit";
+import "./partialRequired";
+import "./returnParams";
+import "./record";
+import "./readonlyType";
