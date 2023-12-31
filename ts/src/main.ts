@@ -22,3 +22,8 @@ import "./partialRequired";
 import "./returnParams";
 import "./record";
 import "./readonlyType";
+import "./awaited";
+import "./typeGuards";
+import "./never";
+import "./unknown";
+import "./as";
