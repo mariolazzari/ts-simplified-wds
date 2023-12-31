@@ -27,3 +27,8 @@ import "./typeGuards";
 import "./never";
 import "./unknown";
 import "./as";
+import "./satisfies";
+import "./discUnions";
+import "./funcOverload";
+import "./typePredicate";
+import "./debug";
