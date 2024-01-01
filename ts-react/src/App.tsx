@@ -1,5 +1,6 @@
 import Button from "./Button";
 import Child from "./Child";
+import Input from "./Input";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Button>Normal</Button>
       <Button outline>Outline</Button>
       <Button disabled>Disabled</Button>
+      <Input />
     </>
   );
 }
