@@ -32,3 +32,5 @@ import "./discUnions";
 import "./funcOverload";
 import "./typePredicate";
 import "./debug";
+import "./import";
+import "./declaration";

@@ -1,5 +1,5 @@
 // Intersections
-type User = {
+export type User = {
   name: string;
   age: number;
 };
@@ -15,3 +15,5 @@ const user1: UserId = {
   age: 48,
   id: "1",
 };
+
+console.log(user1);
